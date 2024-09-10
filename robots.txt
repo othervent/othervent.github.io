@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://othervent.github.io/sitemap.html.gz
+Sitemap: https://othervent.github.io/app/sitemap.html.gz
+Sitemap: https://othervent.github.io/assets/sitemap.html.gz
+Sitemap: https://othervent.github.io/css/sitemap.html.gz
+Sitemap: https://othervent.github.io/includes/sitemap.html.gz
+Sitemap: https://othervent.github.io/item/sitemap.html.gz
+Sitemap: https://othervent.github.io/src/sitemap.html.gz
